@@ -73,7 +73,7 @@ Based on the user’s category and purpose, the assistant also provides:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Decision-Making-Assistant.git
+git clone https://github.com/Mahima0811/AI-Decision-Making-Assistant.git
 ```
 
 ## 2️⃣ Open Project Folder
